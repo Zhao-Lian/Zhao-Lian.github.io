@@ -4,7 +4,7 @@ title: '原型、原型链与Class'
 date: 2020-11-13
 author: 廉兆
 categories: 技术
-cover: ''
+cover: '/assets/img/cover/sky-690293_640.jpg'
 tags: JavaScript ES6 继承
 ---
 
